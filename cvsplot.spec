@@ -4,7 +4,7 @@ Name:		cvsplot
 Version:	1.7.4
 Release:	0.1
 License:	GPL
-Group:		Applications
+Group:		Applications/Console
 Source0:	http://dl.sourceforge.net/cvsplot/%{name}-%{version}.tar.gz
 # Source0-md5:	50315fad42d7ca5f94ccdd4f5d25ee03
 URL:		http://cvsplot.sourceforge.net/
