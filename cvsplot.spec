@@ -10,6 +10,7 @@ Source0:	http://dl.sourceforge.net/cvsplot/%{name}-%{version}.tar.gz
 URL:		http://cvsplot.sourceforge.net/
 Requires:	perl-Date-Manip
 Requires:	perl-String-ShellQuote
+Suggests:	gnuplot
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
